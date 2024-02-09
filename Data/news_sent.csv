@@ -1,29 +1,15 @@
 ,Date,Headline,Sentiment_label,Sentiment_score
-0,02/07/2024,Stock-market investors fear a megacap meltdown. Here's what history says.,Neutral,-0.02875
-1,02/07/2024,"Stock Market Today: Markets Rally As S&P Eyes 5,000 Level; Cathie Wood's Top Pick Surges As Alibaba Tumbles",Neutral,0.091817
 2,02/07/2024,"Foldable Apple iPhone Could Be Coming: What Investors Should Know - Apple  ( NASDAQ:AAPL ) ,  ( SSNGY ) ",Somewhat-Bullish,0.189981
 3,02/07/2024,"S&P 500 Flirts With 5,000 As Magnificent 7 Tops $13 Trillion, NYCB Sinks: What's Driving Markets Wednesday? - Apple  ( NASDAQ:AAPL ) ",Neutral,0.133468
-4,02/07/2024,Gauge of global stock-market performance knocks on door of first record close in 2 years,Somewhat-Bullish,0.186544
-5,02/07/2024,Taiwan Semi Signals Sector Recovery with Strong January Sales: A Look Ahead for Tech Investors - Taiwan Semiconductor  ( NYSE:TSM ) ,Neutral,0.046335
-6,02/07/2024,Here's Why We're Calling Universal Display Up From the Bullpen,Somewhat-Bullish,0.203845
 7,02/07/2024,"Folding Apple iPhone, Sellers Finally Come In AI King NVIDIA As Sentiment Stays At Extreme - Apple  ( NASDAQ:AAPL ) ",Somewhat-Bullish,0.234976
-8,02/07/2024,"Dow Jones Rallies; Cathie Wood's Top Pick Surges On Earnings Beat, Outlook",Neutral,0.115463
-9,02/07/2024,"Market Clubhouse Morning Memo - February 7th, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA )  - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",Somewhat-Bullish,0.166777
-10,02/07/2024,Break Up Disney? Why the Latest Activist Proposal Could Be Good News for Disney Shareholders,Somewhat-Bullish,0.215933
 11,02/07/2024,"Is Apple Vision Pro The Next iPhone? Analyst Gushes, But Flags Some Early Hurdles - Apple  ( NASDAQ:AAPL ) ",Somewhat-Bullish,0.270127
 12,02/07/2024,"'Imagine Your Phone Is A Sandwich': OnePlus Chief Explains Why 7 Years Of Software Updates Is A Gimmick - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",Neutral,0.102933
 13,02/07/2024,"Walt Disney, Apple And More: CNBC's 'Final Trades' - Apple  ( NASDAQ:AAPL ) , Walt Disney  ( NYSE:DIS ) ",Somewhat-Bullish,0.292231
 14,02/07/2024,"Hedge Fund Investors Pull $100B From Market As Stock Pickers Underperform - Apple  ( NASDAQ:AAPL ) , iShares U.S. Treasury Bond ETF  ( BATS:GOVT ) ",Neutral,-0.043142
 15,02/07/2024,"Apple Is Playing It Cool In AI Race, But Top Fund Manager Says It May Be Priming To Lead Another 'Revolution' - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",Somewhat-Bullish,0.282076
 16,02/07/2024,Three Sentences That Saved Apple's Macintosh 1984 Launch And Underlined Steve Jobs' Leadership - Apple  ( NASDAQ:AAPL ) ,Neutral,0.115588
-17,02/07/2024,Better Tech Stock: Meta Platforms vs. Alphabet,Neutral,0.141607
-18,02/07/2024,Not All Magnificent Seven Are So Magnificent So Far This Year,Somewhat-Bullish,0.25215
 19,02/07/2024,"Key Apple Hire Departs Microsoft's AI And Mixed Reality Division, Report Says - Microsoft  ( NASDAQ:MSFT ) ",Somewhat-Bullish,0.201501
 20,02/07/2024,Investors Should Stop Biting Into Apple Stock,Somewhat-Bullish,0.249277
-21,02/07/2024,Is Invesco FTSE RAFI US 1000 ETF  ( PRF )  a Strong ETF Right Now?,Somewhat-Bullish,0.236196
-22,02/07/2024,Is Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF  ( GLOV )  a Strong ETF Right Now?,Somewhat-Bullish,0.189377
-23,02/07/2024,Will Warren Buffett Soon Begin Selling Berkshire Hathaway's Massive Position in Apple Stock?,Somewhat-Bullish,0.313148
-24,02/07/2024,History Says the Nasdaq Could Soar 21% in 2024. Here's the Growth Stock to Buy Right Now.,Somewhat-Bullish,0.286203
 25,02/07/2024,Apple iPhone 16's Rumored Camera Redesign May Boost Spatial Video Recording Capabilities For Vision Pro - Apple  ( NASDAQ:AAPL ) ,Somewhat-Bullish,0.221683
 26,02/07/2024,World's largest chipmaker TSMC to build a second factory in Japan | Business,Somewhat-Bullish,0.174488
 27,02/07/2024,Apple defeats Khosla-backed AliveCor lawsuit over its smartwatch tech,Neutral,0.038555
@@ -627,7 +613,6 @@
 625,01/18/2024,Netflix  ( NFLX )  Gears Up for Q4 Earnings: What's in the Cards?,Somewhat-Bullish,0.206914
 626,01/18/2024,"Deal Alert: Grab Samsung's Latest Flagship Galaxy S24 Ultra At A $990 Discount - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",Somewhat-Bullish,0.218884
 627,01/18/2024,Taiwan Semi Announces Major Global Expansion and Capital Investment Plans for 2024 After Q4 Beat - Taiwan Semiconductor  ( NYSE:TSM ) ,Neutral,0.009472
-628,01/18/2024,Could SoundHound AI Become The Next Alphabet?,Somewhat-Bullish,0.21024
 629,01/18/2024,Here's How To Get Up To $349 In Apple's iPhone 7 'Loop Disease' Class Action Lawsuit Settlement - Apple  ( NASDAQ:AAPL ) ,Neutral,-0.021266
 630,01/18/2024,"Here's Everything Samsung Galaxy S24 Borrowed From Apple's iPhone And Google's Pixel - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",Somewhat-Bullish,0.184471
 631,01/18/2024,"iPhone Sales Are Faltering in China, but Vision Pro Is Coming -- Time to Buy Apple Stock?",Somewhat-Bullish,0.173844
@@ -647,28 +632,12 @@
 645,01/17/2024,Bob Chapek Goes From Disney To Battling Apple: Inside New Role Announced For Former Media Executive - Masimo  ( NASDAQ:MASI ) ,Neutral,0.091048
 646,01/17/2024,Apple Isn't The Only Player In Spatial Computing. Rivals Populated CES 2024.,Somewhat-Bullish,0.156718
 647,01/17/2024,"Courts Reinstate Ban On Apple Watches With Blood Oxygen Sensors - Apple  ( NASDAQ:AAPL ) , Masimo  ( NASDAQ:MASI ) ",Somewhat-Bearish,-0.239433
-648,01/17/2024,Stock Market Off Day's Lows; This Broker Stock Rebounds To A Buy Point,Neutral,-0.004886
-649,01/17/2024,2024 Will Be the Year of AI. 2 Top Stocks I Expect to Surge.,Somewhat-Bullish,0.258286
-650,01/17/2024,TD SYNNEX  ( SNX )  Adds 2000 Partners in Its Enablement Journey,Somewhat-Bullish,0.294315
 651,01/17/2024,Samsung Unveils AI-Enabled Smartphone As Apple Gears Up For Vision Pro Launch,Somewhat-Bullish,0.186204
-652,01/17/2024,"India to tap 12% of global iPhone production in FY24, up from 9% earlier",Somewhat-Bullish,0.158543
-653,01/17/2024,CACI International  ( CACI )  to Modernize DIA's Enterprise Network,Somewhat-Bullish,0.291524
 654,01/17/2024,"Balancing Act: The Ultimate Guide To Large-Cap Growth Stocks With Low Risk - Apple  ( NASDAQ:AAPL ) , Eli Lilly  ( NYSE:LLY ) ",Somewhat-Bullish,0.202814
 655,01/17/2024,Microsoft Tops Apple Ahead of Q4 Earnings: 5 ETFs to Invest,Somewhat-Bullish,0.261424
-656,01/17/2024,"My 2 Top ""Magnificent Seven"" Stocks to Buy in 2024 and Hold Forever",Somewhat-Bullish,0.329607
 657,01/17/2024,"Unveiling The Secrets: How Warren Buffett Gained $10 Billion In 2023 - Occidental Petroleum  ( NYSE:OXY ) , Apple  ( NASDAQ:AAPL ) ",Somewhat-Bullish,0.213384
 658,01/17/2024,Alphabet  ( GOOGL )  to Boost Google TV Services With New Feature,Somewhat-Bullish,0.342701
-659,01/17/2024,"Progress'  ( PRGS )  Q4 Earnings Top Estimates, Revenues Up Y/Y",Somewhat-Bullish,0.264869
-660,01/17/2024,61% of Warren Buffett-Led Berkshire Hathaway's $360 Billion Portfolio Is Invested in These 3 Top Consumer Brands,Bullish,0.386636
-661,01/17/2024,"Taiwan Semiconductor Q4 Earnings Preview: Geopolitical Waves, Intel's Challenge, Valuation Signals - Taiwan Semiconductor  ( NYSE:TSM ) ",Somewhat-Bullish,0.163834
-662,01/17/2024,Why Investors Need to Take Advantage of These 2 Computer and Technology Stocks Now,Bullish,0.384605
-663,01/17/2024,Regeneron and Petco Health and Wellness have been highlighted as Zacks Bull and Bear of the Day,Neutral,0.129375
 664,01/17/2024,Tim Cook Finally Takes His Foot Off The App Store Hose: External Payment Platforms Now Accessible For US Developers - Apple  ( NASDAQ:AAPL ) ,Neutral,0.03535
 665,01/17/2024,How To Earn $500 A Month From Apple Stock - Apple  ( NASDAQ:AAPL ) ,Neutral,-0.016501
-666,01/17/2024,Time for Quality ETFs on Mounting Uncertainties?,Neutral,-0.004932
-667,01/17/2024,5 Blue-Chip Stocks to Buy Ahead of Earnings Results,Somewhat-Bullish,0.337471
-668,01/17/2024,Futures Fall Amid China Data; Tesla Cuts Prices Again,Neutral,-0.014509
 669,01/17/2024,"Asia And Europe Markets Dip, Crude Oil Nears $71 - Global Markets Today While US Was Sleeping - Apple  ( NASDAQ:AAPL ) , SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ",Somewhat-Bearish,-0.177264
-670,01/17/2024,5 Warren Buffett Stocks to Hold Forever,Somewhat-Bullish,0.206709
 671,01/17/2024,Apple and Tesla may no longer be 'safe investments' as China's troubles grow,Neutral,-0.145855
-672,01/17/2024,Should Schwab U.S. Large-Cap ETF  ( SCHX )  Be on Your Investing Radar?,Neutral,0.134185
